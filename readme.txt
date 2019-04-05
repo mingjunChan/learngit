@@ -1,4 +1,6 @@
 ﻿2019/04/05 git整理
+git checkout -- [filename]
+恢复工作区到最近一次修改的版本，但是你会丢失你 最近一次提交后你修改的内容
 
 my stupid boss still use svn
 
