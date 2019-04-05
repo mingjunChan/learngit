@@ -1,4 +1,7 @@
 ﻿2019/04/05 git整理
+
+my stupid boss still use svn
+
 git add
 git commit -m "注释"
 
